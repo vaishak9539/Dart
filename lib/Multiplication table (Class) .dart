@@ -20,7 +20,7 @@ class Multiplicationtable{
 
   loop(){
     for(int i=1; i<=limit; i++){
-      print("$i * $value= ${i*value}");
+      print(" $i * $value= ${i*value}");
     }
   }
 }
